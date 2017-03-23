@@ -1,0 +1,5 @@
+How might using version control make you more confident to make changes that could break something?
+
+Now that you have your workspace set up, what do you want to try using Git for?
+to start an Android project knowing how to identify my errors fast
+
